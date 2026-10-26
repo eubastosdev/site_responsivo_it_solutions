@@ -82,15 +82,15 @@ a {
 
 #showcase {
     height: 100vh;
-    display:flex;
+    display: flex;
     justify-content: center;
     align-items: center;
-    color:#eee;
+    color: #eee;
+
     background: url('../img/showcase.jpg') no-repeat center center/cover;
- 
-    /* Overlay */
-    background-color: rgba(0,0,0,0.4);
-    background-blend-mode: color;
+
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: multiply;
 }
 
 #showcase-container {
