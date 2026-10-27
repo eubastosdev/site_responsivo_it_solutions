@@ -77,7 +77,7 @@ IT-SOLUTIONS/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/Eubastosdev/SEU-REPOSITORIO.git
+git clone https://github.com/eubastosdev/site_responsivo_it_solutions
 ```
 
 ### 2. Acessar a pasta
